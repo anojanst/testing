@@ -13,3 +13,39 @@
 .statusbar-overlay {
     background: #000000;
 }
+
+.welcome{
+	background-color: #fff;
+	padding: 20px;
+	box-shadow: 3px 3px 3px grey;
+	margin-top: -20px;
+}
+
+.home{
+	background-color: #fff;
+	padding: 20px;
+	box-shadow: 3px 3px 3px grey;
+	margin-top: 15px;
+	height: 320px;
+}
+
+
+.main-color{
+	background-color: #2980b9;
+	color: #fff;
+}
+
+.welcome-icon{
+	background-color: #2980b9;
+	height: 40px;
+	width: 40px;
+	border-radius: 25px;
+	color: #fff;
+	padding:10px;
+	float: left;
+	margin-right: 10px;
+}
+
+.welcome-text{
+	min-height: 50px;
+}
